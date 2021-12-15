@@ -8,7 +8,7 @@ The interpretation of these results shows that there is indeed a form of harassm
 
 Solarized dark                                                             |  Solarized Ocean
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)  |  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
 
 ## Welcome to GitHub Pages
