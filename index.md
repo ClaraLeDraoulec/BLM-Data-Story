@@ -6,7 +6,7 @@ On the right, taking into account only those who are not armed (even not a knife
 The interpretation of these results shows that there is indeed a form of harassment and injustice since black people are much more subject to being shot than white people. 
 
 
-Solarized dark                                                             |  Solarized Ocean
+Armed and unarmed                                                         |  Unarmed
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
