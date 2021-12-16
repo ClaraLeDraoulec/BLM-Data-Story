@@ -11,20 +11,20 @@ Armed and unarmed                                                         |  Una
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
-### Idea of plan
+# Idea of plan
 
 ## Global analysis on all the years
 
-# Introducing our dataframe : who are our speakers ?
-# Sentiment analysis
+### Introducing our dataframe : who are our speakers ?
+### Sentiment analysis
 
 Plotting the distribution among gender, age or party for particular sentiment scores.
 
 Regression analysis to see also the influence of the different features on the sentiment score. 
 
-# Topic detection --> introducing the big names
-# Peak detection, matching with the big names
-# Showing the impact of mediatized and 'famous' death on the occurences of quotations using the relative increase and the Pearson correlation
+### Topic detection --> introducing the big names
+### Peak detection, matching with the big names
+### Showing the impact of mediatized and 'famous' death on the occurences of quotations using the relative increase and the Pearson correlation
 
 We expect a negative correlation between the number of quotations and the number of days elapsed since the last unlegitimate fatal police shooting. Indeed, the closer to the event, the more quotations we expect. (Pearson's correlation)
 
