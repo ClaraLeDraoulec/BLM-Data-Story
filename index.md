@@ -16,6 +16,12 @@ Armed and unarmed                                                         |  Una
 ## Global analysis on all the years
 
 ### Introducing our dataframe : who are our speakers ?
+
+Add some pie charts of the speakers.
+
+
+**Normalize the pie charts
+
 ### Sentiment analysis
 
 Plotting the distribution among gender, age or party for particular sentiment scores.
