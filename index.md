@@ -19,6 +19,8 @@ Armed and unarmed                                                         |  Una
 
 Add some pie charts of the speakers.
 
+Not surprisingly, the proportion of males in our speakers is much higher than other genders, however, in the US men are yet not more numerous than women for example. One explanation could be that they are more likely to talk to the press, or maybe they are taken more seriously than other genders. The topic of police brutality does not make an exception, as it is mosly discussed by males. 
+
 
 **Normalize the pie charts**
 
@@ -28,9 +30,15 @@ Plotting the distribution among gender, age or party for particular sentiment sc
 
 Regression analysis to see also the influence of the different features on the sentiment score. 
 
-### Topic detection --> introducing the big names
-### Peak detection, matching with the big names
-### Showing the impact of mediatized and 'famous' death on the occurences of quotations using the relative increase and the Pearson correlation
+### Entity recognition --> introducing the big names
+
+There have been many unlegitimate police killings, some have been mediatized while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we chose to focus on people that tragically became famous after beeing unlegitimately killed by police. 
+
+Using entity recognition and wrossing it with word coulds, and the knowledge of Paula living in the US, we have been able to isolate the deaths that impacted the most the American population, and whose names are most present in the dataset. This gives us the following list of sadly famous people, associated to the date on which they were killed : 
+
+### Showing the impact of mediatized and 'famous' death on the occurences of quotations using the relative increase and the Pearson correlation and peak detection
+
+We can see that there are some peaks in the occurrences of quotations a few days after the deaths of the people we have selected.
 
 We expect a negative correlation between the number of quotations and the number of days elapsed since the last unlegitimate fatal police shooting. Indeed, the closer to the event, the more quotations we expect. (Pearson's correlation)
 
