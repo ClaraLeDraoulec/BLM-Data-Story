@@ -20,7 +20,7 @@ Armed and unarmed                                                         |  Una
 Add some pie charts of the speakers.
 
 
-**Normalize the pie charts
+**Normalize the pie charts**
 
 ### Sentiment analysis
 
