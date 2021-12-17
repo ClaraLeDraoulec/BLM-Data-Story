@@ -54,7 +54,6 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 ![This is an image](./photo/occurrences_martin.png)
 
 
-
 ![This is an image](./photo/norm_increase_vs_time.png)
  
 
