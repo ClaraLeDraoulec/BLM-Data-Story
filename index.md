@@ -8,10 +8,10 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd
 
 According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
  
-![Alt Text](unarmed_killings_fast.gif)
+![Alt Text](./photo/unarmed_killings_fast.gif)
 
 
-![This is an image](killings_over_time.png)
+![This is an image](./photo/killings_over_time.png)
 
 If we look at the proportion of people killed by the police according to their race is higher than white people. Some detractors of the BLM movement might be tempted to say that the police officers did not have other choice but to kill them, justifying their action by self-defense. However, if the victims are unarmed, then they can not be threatening the level of the police officer. Let's then look at the proportion if unarmed people. This gives the plot on the right. Unarmed Black people are 3 times more likely to be killed by the US police than white people. Where is the self-defense here ? 
 
@@ -38,9 +38,9 @@ Those categories of people are the ones that are the less often discredited and 
 
 ### Their lives matter !
 
-There have been many unlegitimate police killings, some have been mediatized while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we chose to focus on people that tragically became famous after beeing unlegitimately killed by police. 
+There have been many unlegitimate police killings, some have made the headlines while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we focused on people that tragically became famous after beeing unlegitimately killed by police, to highlight the tendency of the speakers wait for a mediatized death to take action. 
 
-The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. Indeed, this act was very meaningful for the BLM movement. 
+The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. This list of  
 
 ![This is an image](./photo/big_names.png)
 
@@ -55,7 +55,7 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 ![This is an image](./photo/norm_increase_vs_time.png)
  
 
-It also seems that people protesting about BLM or being killed in those years had a higher impact on our speakers.
+It also seems that people protesting about BLM or being killed in those years had a higher impact on our speakers. 
 
 
 
