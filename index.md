@@ -57,7 +57,7 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 
 
 ![This is an image](./photo/norm_increase_vs_time.png)
- 
+
 
 It also seems that people protesting about BLM or being killed in those years had a higher impact on our speakers. 
 
