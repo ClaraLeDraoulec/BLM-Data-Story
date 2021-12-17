@@ -50,12 +50,12 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 
 ![This is an image](./photo/occurrences_martin.png)
 
-It also seems that people protesting about BLM or being killed in those days had a higher impact on our speakers.
+
 
 ![This is an image](./photo/norm_increase_vs_time.png)
+ 
 
-Deaths or protests seemed to have been more impactful in 2015 and 2016 than in the other years. 
-
+It also seems that people protesting about BLM or being killed in those years had a higher impact on our speakers.
 
 
 
