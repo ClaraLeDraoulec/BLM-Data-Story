@@ -19,6 +19,9 @@ Proportion of killed people per million inhabitants                             
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
+## Black Lives Matter movement in Quotebank
+
+Quotebank is a dataset of quotations gathered from the US news. Police violence is a controversal issue in the US, and there are of course people defending the civil rights of all citizens in the US, no matter the color of their skin, and the ones that criticize the movement and the protests linked to it. The quotations are therefore a mix of support and criticism of the BLM movement. The dataset we used contains the years from 2015 to 2020 and the quotations related to the BLM movement and police brutality in a more general way and contains about 700000 quotations. This shows that the topic is not anectodal, and whether the speakers of the quotations talk about this topic in a positive or negative way, they talk about it A LOT. 
 
 ### Who is talking about BLM and protest brutality
 
