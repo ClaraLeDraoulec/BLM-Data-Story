@@ -8,6 +8,8 @@ The interpretation of these results shows that there is indeed a form of harassm
 
 ![Alt Text](unarmed_killings_fast.gif)
 
+
+![This is an image](killings_over_time.png)
 Armed and unarmed                                                         |  Unarmed
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
