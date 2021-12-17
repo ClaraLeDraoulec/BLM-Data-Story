@@ -8,7 +8,7 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd 
 
 
 
-![This is an image](killings_over_time.png =100x20)
+![This is an image](killings_over_time.png)
 
 We map the killings over time starting from 2015 and see that it is a nationwide problem.
 
@@ -31,7 +31,7 @@ Quotebank is a dataset of quotations gathered from the US news. Police violence 
 ### Who is talking about BLM and protest brutality
 
 
-![This is an image](./photo/gender_speakers.png=100x20)
+![This is an image](./photo/gender_speakers.png)
 ![This is an image](./photo/age_speakers.png)
 ![This is an image](./photo/party_speakers.png)
 
