@@ -38,7 +38,7 @@ Not surprisingly, the proportion of males in our speakers is much higher than ot
 
 There have been many unlegitimate police killings, some have been mediatized while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we chose to focus on people that tragically became famous after beeing unlegitimately killed by police. 
 
-Using entity recognition and crossing it with word clouds, and our knowledge of US events, we have been able to isolate the deaths that impacted the most the American population, and whose names are most present in the dataset. This gives us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We adde dto this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. Indeed, this act was very meaningful for the BLM movement. 
+The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. Indeed, this act was very meaningful for the BLM movement. 
 
 ![This is an image](./photo/big_names.png)
 
@@ -49,20 +49,6 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 
 ![This is an image](./photo/occurrences_martin.png)
 
-
-
-We expect a negative correlation between the number of quotations and the number of days elapsed since the last unlegitimate fatal police shooting. Indeed, the closer to the event, the more quotations we expect. (Pearson's correlation)
-
-We also expect that ther would be more quotations after than before such an event. (Relative increase in the number of quotations)
-
-Make vizualizations on the impact : who reacts the most to the deaths ?
-
-
-### Sentiment analysis
-
-Plotting the distribution among gender, age or party for particular sentiment scores.
-
-Regression analysis to see also the influence of the different features on the sentiment score. 
 
 
 ## Welcome to GitHub Pages
