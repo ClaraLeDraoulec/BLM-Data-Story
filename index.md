@@ -8,7 +8,7 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd 
 
 
 
-![This is an image](killings_over_time.png)
+![This is an image](killings_over_time.png =100x20)
 
 We map the killings over time starting from 2015 and see that it is a nationwide problem.
 
@@ -47,7 +47,7 @@ There have been many unlegitimate police killings, some have made the headlines 
 
 The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality.
 
-![This is an image](./photo/big_names.png=100x20)
+![This is an image](./photo/big_names.png)
 
 
 Here are all the occurrences of quotations talking about the BLM movement and police brutality, on top of which we can see the dates at which the most mediatized victims of police abuse died, and also the protestation of Colin Kaepernick. It clearly appears that the pic in occurrences of our topic matches those dates, this emphasizes the fact that our speakers tend to discuss police brutality only because some totally unjustified deaths remind them that racism is all over the country. 
