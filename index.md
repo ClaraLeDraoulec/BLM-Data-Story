@@ -1,19 +1,22 @@
-## _Abstract : needs to be modified_
+## Abstract
 
-_In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse and legislative action either in favor of or in opposition to the movement._
+In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse on the movement. We focus on the fact that although a civilan is killed by the police ****EVERY SINGLE DAY,**** the media only sensationalizes certain cases, and then moves on and stops discuissing the problem. Additionally, we show how too much attention is given to "counter-movements" and we see the efforts to diminsh the impact of Black Lives Matter.
 
-# Fight against police brutality should be an everyday struggle
+# The Fight Against Police Brutality Should Be An Everyday Struggle
 
-Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. 
-
-According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
- 
-![Alt Text](./photo/unarmed_killings_fast.gif)
-
+Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. But Black Lives Matter fights against all forms of police brutality which is much too frequent. In fact, it is every day as we see below.
 
 ![This is an image](killings_over_time.png)
 
-If we look at the proportion of people killed by the police according to their race is higher than white people. Some detractors of the BLM movement might be tempted to say that the police officers did not have other choice but to kill them, justifying their action by self-defense. However, if the victims are unarmed, then they can not be threatening the level of the police officer. Let's then look at the proportion if unarmed people. This gives the plot on the right. Unarmed Black people are 3 times more likely to be killed by the US police than white people. Where is the self-defense here ? 
+We map the killings over time starting from 2015 and see that it is a nationwide problem.
+
+![Alt Text](./photo/unarmed_killings_fast.gif)
+
+According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
+ 
+
+
+If we look at the proportion of people killed by the police according to their race is higher than white people. Some detractors of the BLM movement might be tempted to say that the police officers did not have other choice but to kill them, justifying their action by self-defense. However, if the victims are unarmed, then they can not be threatening the level of the police officer. Anoher argument is that they may have  been fleeing the scene and thus they were killed to be stopped... but last time I checked police aren't supposed to kill guilty peopel either! Let's then look at the proportion if unarmed people. This gives the plot on the right. Unarmed Black people are 3 times more likely to be killed by the US police than white people. Where is the self-defense here ? 
 
 Proportion of killed people per million inhabitants                                                |  Proportion of unarmed killed people per million inhabitants
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
@@ -58,41 +61,6 @@ The quotations we had were only covering the years from 2015 to 2020. Neverthele
 It also seems that people protesting about BLM or being killed in those years had a higher impact on our speakers. 
 
 
+We  still have a far way to go to solve the problem of police brutality. Here are some wordclouds that show current feelings towards BLM and police:
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ClaraLeDraoulec/BLM-Data-Story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Test 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClaraLeDraoulec/BLM-Data-Story/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![This is an image](./photo/blm_wordcloud.png) |  ![This is an image](./photo/police_wordcloud.png)
