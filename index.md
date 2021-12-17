@@ -2,7 +2,7 @@
 
 In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse on the movement. We focus on the fact that although a civilan is killed by the police ****EVERY SINGLE DAY,**** the media only sensationalizes certain cases, and then moves on and stops discuissing the problem. Additionally, we show how too much attention is given to "counter-movements" and we see the efforts to diminsh the impact of Black Lives Matter.
 
-# Fight against police brutality should be an everyday struggle
+# The Fight Against Police Brutality Should Be An Everyday Struggle
 
 Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. 
 
