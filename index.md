@@ -45,8 +45,14 @@ Here are all the occurrences of quotations talking about the BLM movement and po
 
 The quotations we had were only covering the years from 2015 to 2020. Nevertheless, victims of police violence did not start in 2015. And some tragic victims of racism that died in the years before 2015 still have an impact today. For example, the filtered dataset is refering a lot to Trayvon Martin, a young boy killed in February 2012 and whose killer was never charged with murder. His name is specifically mentionned in the days following the particular dates we selected. 
 
-
 ![This is an image](./photo/occurrences_martin.png)
+
+It also seems that people protesting about BLM or being killed in those days had a higher impact on our speakers.
+
+![This is an image](.norm_increase_vs_time.png)
+
+
+
 
 
 
