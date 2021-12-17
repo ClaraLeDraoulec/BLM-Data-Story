@@ -6,7 +6,8 @@ In 2013, the Black Lives Matter (BLM) movement emerged in response to the police
 
 Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. But Black Lives Matter fights against all forms of police brutality which is much too frequent. In fact, it is every day as we see below.
 
-![This is an image](killings_over_time.png | width=200)
+![This is an image](killings_over_time.png)
+<img src = killings_over_time.png width="100">
 
 We map the killings over time starting from 2015 and see that it is a nationwide problem.
 
