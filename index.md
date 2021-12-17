@@ -71,3 +71,9 @@ We  still have a far way to go to solve the problem of police brutality. Here ar
 
 ![This is an image](./photo/blm_wordcloud.png) 
 ![This is an image](./photo/police_wordcloud.png)
+
+
+And even when BLM becomes relevant, others try to diminish the impact by saying things like "White Lives Matter" or "Blue Lives Matter."
+
+
+![This is an image](./photo/movement_trends.png) 
