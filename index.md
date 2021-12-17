@@ -70,6 +70,8 @@ It also seems that people protesting about BLM or being killed in those years ha
 We  still have a far way to go to solve the problem of police brutality. Here are some wordclouds that show current feelings towards BLM and police:
 
 ![This is an image](./photo/blm_wordcloud.png) 
+
+
 ![This is an image](./photo/police_wordcloud.png)
 
 
