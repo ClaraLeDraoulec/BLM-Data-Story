@@ -6,8 +6,10 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd
 On the right, taking into account only those who are not armed (even not a knife) for questions of legitimacy,  unarmed black people are 3 times more likely to be killed by US police than white people.
 The interpretation of these results shows that there is indeed a form of harassment and injustice since black people are much more subject to being shot than white people. 
 
-![Alt Text](unarmed_killings.gif)
+![Alt Text](unarmed_killings_fast.gif)
 
+
+![This is an image](killings_over_time.png)
 Armed and unarmed                                                         |  Unarmed
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
