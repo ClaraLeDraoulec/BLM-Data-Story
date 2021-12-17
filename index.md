@@ -4,14 +4,17 @@ _In 2013, the Black Lives Matter (BLM) movement emerged in response to the polic
 
 ## Introduction : Put some vizualizations : pie charts, map, word could... to expose the issue of racism
 
-Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
-On the right, taking into account only those who are not armed (even not a knife) for questions of legitimacy,  unarmed black people are 3 times more likely to be killed by US police than white people.
-The interpretation of these results shows that there is indeed a form of harassment and injustice since black people are much more subject to being shot than white people. 
+Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. 
 
+According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
+ 
 ![Alt Text](unarmed_killings_fast.gif)
 
 
 ![This is an image](killings_over_time.png)
+
+If we look at the proportion of people killed by the police according to their race is higher than white people. Some detractors of the BLM movement might be tempted to say that the police officers did not have other choice but to kill them, justifying their action by self-defense. However, if the victims are unarmed, then they can not be threatening the level of the police officer. Let's then look at the proportion if unarmed people. This gives the plot on the right. Unarmed Black people are 3 times more likely to be killed by the US police than white people. Where is the self-defense here ? 
+
 Proportion of killed people per million inhabitants                                                |  Proportion of unarmed killed people per million inhabitants
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
