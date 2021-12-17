@@ -1,8 +1,8 @@
-## _Abstract_
+## _Abstract : needs to be modified_
 
 _In 2013, the Black Lives Matter (BLM) movement emerged in response to the police brutality experienced by Black people in the United States. The movement has become increasingly popular, presumably due to the myriad protests that have been organized since its inception. However, its popularity has sparked mixed sentiment within America’s socio-political landscape. Thus, we analyze how select mediatized protests have impacted discourse and legislative action either in favor of or in opposition to the movement._
 
-## Introduction : Put some vizualizations : pie charts, map, word could... to expose the issue of racism
+# Fight against police brutality should be an everyday struggle
 
 Alton Sterling, Stephon Clark, or more recently Breonna Taylor and Georges Floyd have tragically become symbols of the struggle against police violence. The US police is indeed often involved in a lot of cases of racial persecution towards minorities, and in reaction, there have been many protests to try to change this constant harassment. 
 
@@ -21,7 +21,7 @@ Proportion of killed people per million inhabitants                             
 
 ## Black Lives Matter movement in Quotebank
 
-Quotebank is a dataset of quotations gathered from the US news. Police violence is a controversal issue in the US, and there are of course people defending the civil rights of all citizens in the US, no matter the color of their skin, and the ones that criticize the movement and the protests linked to it. The quotations are therefore a mix of support and criticism of the BLM movement. The dataset we used contains the years from 2015 to 2020 and the quotations related to the BLM movement and police brutality in a more general way and contains about 700000 quotations. This shows that the topic is not anectodal, and whether the speakers of the quotations talk about this topic in a positive or negative way, they talk about it A LOT. 
+Quotebank is a dataset of quotations gathered from the US news. Police violence is a controversal issue in the US, and there are of course people defending the civil rights of all citizens in the US, no matter the color of their skin, and the ones that criticize the movement and the protests linked to it. The quotations are therefore a mix of support and criticism of the BLM movement. The dataset we used contains the years from 2015 to 2020 and the quotations related to the BLM movement and police brutality in a more general way and contains about 700000 quotations. This shows that the topic is not anecdotal, and whether the speakers of the quotations talk about this topic in a positive or negative way, they talk about it a lot, but is it enough? Focusing on specific periods of time, we aim to show that everytime a Black person is killed by the police, the subject is more present in the news. Do Americans need Black young people to die to take action against police violence? As shown on the map above, many Black people are killed by the police every year, but are their deaths less significant if they are not mediatised ? 
 
 ### Who is talking about BLM and protest brutality
 
@@ -32,11 +32,11 @@ Quotebank is a dataset of quotations gathered from the US news. Police violence 
 
 Not surprisingly, the proportion of males in our speakers is much higher than other genders, however, in the US men are yet not more numerous than women for example. One explanation could be that they are more likely to talk to the press, or maybe they are taken more seriously than other genders. The topic of police brutality does not make an exception, as it is mosly discussed by males. 
 
+Moreover, most people mentioning the topic are middle aged and old people. Once again, this is probably representative of the proportion of this category of people in the news in general. 
 
+Those categories of people are the ones that are the less often discredited and whose voices are listened to in the press. They should raise awareness about racism. Not only in the days or weeks following the terrible death of a 12-year-old Black boy to bring the issue to the table, not when the hot topic is already all over the twittosphere, not when it's too late. 
 
-
-
-### Their lives matter
+### Their lives matter !
 
 There have been many unlegitimate police killings, some have been mediatized while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we chose to focus on people that tragically became famous after beeing unlegitimately killed by police. 
 
@@ -44,7 +44,7 @@ The analysis of the dataset and our knowledge of US history gave us the followin
 
 ![This is an image](./photo/big_names.png)
 
-Here are all the occurrences of quotations talking about the BLM movement and police brutality, on top of which we can see the dates at which the most mediatized victims of police abuse died, and also the protestation of Colin Kaepernick. It clearly appears that the pic in occurrences of our topic matches those dates.
+Here are all the occurrences of quotations talking about the BLM movement and police brutality, on top of which we can see the dates at which the most mediatized victims of police abuse died, and also the protestation of Colin Kaepernick. It clearly appears that the pic in occurrences of our topic matches those dates, this emphasizes the fact that our speakers tend to discuss police brutality only because some totally unjustified deaths remind them that racism is all over the country. 
 
 The quotations we had were only covering the years from 2015 to 2020. Nevertheless, victims of police violence did not start in 2015. And some tragic victims of racism that died in the years before 2015 still have an impact today. For example, the filtered dataset is refering a lot to Trayvon Martin, a young boy killed in February 2012 and whose killer was never charged with murder. His name is specifically mentionned in the days following the particular dates we selected. 
 
