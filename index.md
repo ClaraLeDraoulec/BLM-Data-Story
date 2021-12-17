@@ -11,7 +11,7 @@ According to the Washington Post [1], 918 persons have been shot and killed by p
 ![Alt Text](./photo/unarmed_killings_fast.gif)
 
 
-![This is an image](./photo/killings_over_time.png)
+![This is an image](killings_over_time.png)
 
 If we look at the proportion of people killed by the police according to their race is higher than white people. Some detractors of the BLM movement might be tempted to say that the police officers did not have other choice but to kill them, justifying their action by self-defense. However, if the victims are unarmed, then they can not be threatening the level of the police officer. Let's then look at the proportion if unarmed people. This gives the plot on the right. Unarmed Black people are 3 times more likely to be killed by the US police than white people. Where is the self-defense here ? 
 
