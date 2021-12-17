@@ -8,11 +8,11 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd 
 
 
 
-![This is an image](.photo/killings_over_time.png)
+![This is an image](./photo/killings_over_time.png)
 
 We map the killings over time starting from 2015 and see that it is a nationwide problem.
 
-![This is an image](.photo/unarmed_killings_fast.gif)
+![This is an image](./photo/unarmed_killings_fast.gif)
 
 According to the Washington Post [1], 918 persons have been shot and killed by police in the past year. By doing a short analysis between 2015 and today with their database and normalizing each killed race by the number of the US inhabitant of the same race, it shows that black Americans are killed by police more than twice as high as the rate for white Americans.
  
