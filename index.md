@@ -22,7 +22,6 @@ Proportion of killed people per million inhabitants                             
 
 ### Introducing our dataframe : who are our speakers ?
 
-**Add some pie charts of the speakers.**
 
 ![This is an image](./photo/gender_speakers.png)
 ![This is an image](./photo/age_speakers.png)
