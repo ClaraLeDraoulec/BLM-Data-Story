@@ -16,11 +16,8 @@ Proportion of killed people per million inhabitants                             
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
-# Idea of plan
 
-## Global analysis on all the years
-
-### Introducing our dataframe : who are our speakers ?
+### Who is talking about BLM and protest brutality
 
 
 ![This is an image](./photo/gender_speakers.png)
@@ -51,7 +48,7 @@ It also seems that people protesting about BLM or being killed in those days had
 
 ![This is an image](./photo/norm_increase_vs_time.png)
 
-
+Deaths or protests seemed to have been more impactful in 2015 and 2016 than in the other years. 
 
 
 
