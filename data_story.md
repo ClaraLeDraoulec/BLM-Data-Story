@@ -40,13 +40,13 @@ Those categories of people are the ones that are the less often discredited and 
 
 There have been many unlegitimate police killings, some have made the headlines while others have been hidden under the carpet. We do not consider those last cases less important than the more mediatized death, but for a better analysis we focused on people that tragically became famous after beeing unlegitimately killed by police, to highlight the tendency of the speakers wait for a mediatized death to take action. 
 
-The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. This list of  
+The analysis of the dataset and our knowledge of US history gave us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We added to this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality.
 
 ![This is an image](./photo/big_names.png)
 
 Here are all the occurrences of quotations talking about the BLM movement and police brutality, on top of which we can see the dates at which the most mediatized victims of police abuse died, and also the protestation of Colin Kaepernick. It clearly appears that the pic in occurrences of our topic matches those dates, this emphasizes the fact that our speakers tend to discuss police brutality only because some totally unjustified deaths remind them that racism is all over the country. 
 
-The quotations we had were only covering the years from 2015 to 2020. Nevertheless, victims of police violence did not start in 2015. And some tragic victims of racism that died in the years before 2015 still have an impact today. For example, the filtered dataset is refering a lot to Trayvon Martin, a young boy killed in February 2012 and whose killer was never charged with murder. His name is specifically mentionned in the days following the particular dates we selected. 
+The quotations we had were only covering the years from 2015 to 2020. Nevertheless, victims of police violence did not start in 2015. For example, the filtered dataset is refering a lot to Trayvon Martin, a young boy killed in February 2012 and whose killer was never charged with murder. His name is specifically mentionned in the days following the particular dates we selected.
 
 ![This is an image](./photo/occurrences_martin.png)
 
