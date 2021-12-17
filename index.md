@@ -10,7 +10,7 @@ The interpretation of these results shows that there is indeed a form of harassm
 
 
 ![This is an image](killings_over_time.png)
-Armed and unarmed                                                         |  Unarmed
+Proportion of killed people per million inhabitants                                                |  Proportion of narmed killed people per million inhabitants
 :-------------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![This is an image](./photo/armedandunarmed.png)  |  ![This is an image](./photo/unarmed.png)
 
