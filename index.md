@@ -8,7 +8,7 @@ Alton Sterling, Stephon Clark, or more recently Breonna Taylor and George Floyd 
 
 
 
-![This is an image](./photo/killings_over_time.png)
+![This is an image](killings_over_time.png)
 
 We map the killings over time starting from 2015 and see that it is a nationwide problem.
 
