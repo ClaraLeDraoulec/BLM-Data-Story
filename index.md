@@ -24,9 +24,9 @@ Proportion of killed people per million inhabitants                             
 
 **Add some pie charts of the speakers.**
 
-[This is an image](./photo/gender_speakers.png)
-[This is an image](./photo/age_speakers.png)
-[This is an image](./photo/party_speakers.png)
+![This is an image](./photo/gender_speakers.png)
+![This is an image](./photo/age_speakers.png)
+![This is an image](./photo/party_speakers.png)
 
 Not surprisingly, the proportion of males in our speakers is much higher than other genders, however, in the US men are yet not more numerous than women for example. One explanation could be that they are more likely to talk to the press, or maybe they are taken more seriously than other genders. The topic of police brutality does not make an exception, as it is mosly discussed by males. 
 
@@ -40,14 +40,14 @@ There have been many unlegitimate police killings, some have been mediatized whi
 
 Using entity recognition and crossing it with word clouds, and our knowledge of US events, we have been able to isolate the deaths that impacted the most the American population, and whose names are most present in the dataset. This gives us the following list of sadly famous people, associated to the date on which they were killed : Walter Scott, Sandra Bland, Philando Castile, Alton Sterling, Terence Crutcher, Stephon Clark, Botham Jean, Jordan Edwards. We adde dto this list the name of Colin Kaepernick and associated it with the date on which he knelt at the start of NFL games to protest against police brutality. Indeed, this act was very meaningful for the BLM movement. 
 
-[This is an image](./photo/big_names.png)
+![This is an image](./photo/big_names.png)
 
 Here are all the occurrences of quotations talking about the BLM movement and police brutality, on top of which we can see the dates at which the most mediatized victims of police abuse died, and also the protestation of Colin Kaepernick. It clearly appears that the pic in occurrences of our topic matches those dates.
 
 The quotations we had were only covering the years from 2015 to 2020. Nevertheless, victims of police violence did not start in 2015. And some tragic victims of racism that died in the years before 2015 still have an impact today. For example, the filtered dataset is refering a lot to Trayvon Martin, a young boy killed in February 2012 and whose killer was never charged with murder. His name is specifically mentionned in the days following the particular dates we selected. 
 
 
-[This is an image](./photo/occurrences_martin.png)
+![This is an image](./photo/occurrences_martin.png)
 
 
 
